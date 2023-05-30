@@ -1,0 +1,39 @@
+{
+  "users": [
+    {
+      "email": "ahmed@gmail.com",
+      "password": "$2a$10$/LUvG7mpWYSfN4/iHAFMiOqbX6VfZtGnqEZGk0sj1Vq2oIOYpfXdi",
+      "name": "",
+      "phone": "",
+      "id": 1
+    },
+    {
+      "email": "anwar@gmail.com",
+      "password": "$2a$10$.WzN.VaJuh6fOuPYZ6FS.OSVc0R/iLoAe5wHgf.qAgNKbyfghJuc6",
+      "name": "Anwar Ramadan",
+      "phone": "01029134630",
+      "id": 2
+    },
+    {
+      "email": "dfsdf@gmail.com",
+      "password": "$2a$10$5X2iPudGSh1J0eMDeE/tX.AWl0Abh9rxeuv0ioeeU2vmpJ.HOxORi",
+      "name": "",
+      "phone": "",
+      "id": 3
+    },
+    {
+      "email": "nour@gmail.com",
+      "password": "$2a$10$j7H3wq4NNoeRdMD0o08.de6djmoDpkqD1/IGdoFm4mR3vutOGcWc6",
+      "name": "Nour Ramadan",
+      "phone": "01029134630",
+      "id": 4
+    },
+    {
+      "email": "nono@gmail.com",
+      "password": "$2a$10$/.SujOBDW1zlWYf8Vy4sv.hamTZqIGJl31.rKw8Atp0Rd4H1NxQqG",
+      "name": "nonoo",
+      "phone": "01029134630",
+      "id": 5
+    }
+  ]
+}
